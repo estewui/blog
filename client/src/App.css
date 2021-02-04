@@ -1,0 +1,10 @@
+body {
+    background-color: #F0F2F5 !important;
+    background-image: url("./img/background.png");
+    background-size: auto;
+    min-height: 100% !important;
+}
+
+.ant-menu-item {
+    border-bottom: 0px !important;
+}
