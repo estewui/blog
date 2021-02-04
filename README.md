@@ -5,6 +5,9 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Features](#features)
+* [Status](#status)
+* [Contact](#contact)
 
 ## General Info
 
